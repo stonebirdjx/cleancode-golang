@@ -4,6 +4,7 @@
 * [简介](introduction.md)
 * [注释](comment.md)
   * [版权信息](./comment/copyright.md)
-
+  * [包注释](./comment/package.md)
+  
 * [引用与致谢](./quote_and_thanks.md)
 
