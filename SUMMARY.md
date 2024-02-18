@@ -2,6 +2,7 @@
 
 * [封面](./cover.md)
 * [简介](introduction.md)
+* [箴言](proverbs.md)
 * [注释](comment.md)
   * [版权信息](./comment/copyright.md)
   * [包注释](./comment/package.md)
