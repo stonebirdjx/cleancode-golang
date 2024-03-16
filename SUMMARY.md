@@ -20,6 +20,7 @@
 * [安全编码](code_safe.md)
   * [整数安全](code-safe/integer.md)
   * [字符串安全](code-safe/string.md)
+  * [素组和slice安全](code-safe/array_and_slice.md)
   
 * [引用与致谢](./quote_and_thanks.md)
 
