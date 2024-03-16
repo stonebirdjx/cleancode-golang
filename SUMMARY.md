@@ -19,6 +19,7 @@
 * [声明和初始化](state_and_init.md)
 * [安全编码](code_safe.md)
   * [整数安全](code-safe/integer.md)
+  * [字符串安全](code-safe/string.md)
   
 * [引用与致谢](./quote_and_thanks.md)
 
