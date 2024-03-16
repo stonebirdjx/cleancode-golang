@@ -21,6 +21,7 @@
   * [整数安全](code-safe/integer.md)
   * [字符串安全](code-safe/string.md)
   * [素组和slice安全](code-safe/array_and_slice.md)
+  * [map安全](code-safe/map.md)
   
 * [引用与致谢](./quote_and_thanks.md)
 
