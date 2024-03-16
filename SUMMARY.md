@@ -19,5 +19,7 @@
   
 * [代码格式](format.md)
   
+* [声明和初始化](state_and_init.md)
+  
 * [引用与致谢](./quote_and_thanks.md)
 
