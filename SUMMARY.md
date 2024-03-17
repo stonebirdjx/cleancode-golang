@@ -34,5 +34,7 @@
   
 * [接口](interface.md)
   
+* [类型断言](assert.md)
+  
 * [引用与致谢](./quote_and_thanks.md)
 
