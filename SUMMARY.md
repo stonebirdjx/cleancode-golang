@@ -25,6 +25,7 @@
   * [map安全](code-safe/map.md)
   * [表达式安全](code-safe/expression.md)
   * [控制语句安全](code-safe/controller.md)
+  * [包安全](code-safe/package.md)
   
 * [函数和方法](func_and_method.md)
   * [init函数](func/init.md)
