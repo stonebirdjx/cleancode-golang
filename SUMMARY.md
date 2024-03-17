@@ -32,5 +32,7 @@
   
 * [结构体](struct.md)
   
+* [接口](interface.md)
+  
 * [引用与致谢](./quote_and_thanks.md)
 
