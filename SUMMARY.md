@@ -37,5 +37,7 @@
   
 * [类型断言](assert.md)
   
+* [错误处理](error.md)
+  
 * [引用与致谢](./quote_and_thanks.md)
 
