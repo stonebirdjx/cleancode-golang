@@ -41,5 +41,7 @@
   
 * [并发](goroutine.md)
   
+* [输入输出](input_output.md)
+  
 * [引用与致谢](./quote_and_thanks.md)
 
