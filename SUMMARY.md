@@ -27,6 +27,7 @@
   * [控制语句安全](code-safe/controller.md)
   
 * [函数和方法](func_and_method.md)
+  * [init函数](func/init.md)
   
 * [引用与致谢](./quote_and_thanks.md)
 
