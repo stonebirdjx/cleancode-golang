@@ -30,5 +30,7 @@
   * [init函数](func/init.md)
   * [闭包函数](func/closure.md)
   
+* [结构体](struct.md)
+  
 * [引用与致谢](./quote_and_thanks.md)
 
