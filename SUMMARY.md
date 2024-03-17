@@ -39,5 +39,7 @@
   
 * [错误和异常处理](error.md)
   
+* [并发](goroutine.md)
+  
 * [引用与致谢](./quote_and_thanks.md)
 
