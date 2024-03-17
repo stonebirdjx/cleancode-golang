@@ -28,6 +28,7 @@
   
 * [函数和方法](func_and_method.md)
   * [init函数](func/init.md)
+  * [闭包函数](func/closure.md)
   
 * [引用与致谢](./quote_and_thanks.md)
 
