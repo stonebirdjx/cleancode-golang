@@ -26,5 +26,7 @@
   * [表达式安全](code-safe/expression.md)
   * [控制语句安全](code-safe/controller.md)
   
+* [函数和方法](func_and_method.md)
+  
 * [引用与致谢](./quote_and_thanks.md)
 
