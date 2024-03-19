@@ -47,4 +47,6 @@
   
 * [资源管理](resource_manager.md)
   
+* [内存访问](memory.md)
+  
 * [引用与致谢](./quote_and_thanks.md)
