@@ -53,4 +53,8 @@
   
 * [系统接口](system.md)
   
+* [web](web.md)
+  
+* [其他](other.md)
+  
 * [引用与致谢](./quote_and_thanks.md)
