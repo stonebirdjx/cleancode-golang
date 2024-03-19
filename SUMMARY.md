@@ -43,5 +43,8 @@
   
 * [输入输出](input_output.md)
   
+* [外部数据校验](data_check.md)
+  
+* [资源管理](resource_manager.md)
+  
 * [引用与致谢](./quote_and_thanks.md)
-
