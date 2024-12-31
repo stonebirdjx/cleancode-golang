@@ -21,7 +21,7 @@
 * [安全编码](code_safe.md)
   * [整数安全](code-safe/integer.md)
   * [字符串安全](code-safe/string.md)
-  * [素组和slice安全](code-safe/array_and_slice.md)
+  * [数组和slice安全](code-safe/array_and_slice.md)
   * [map安全](code-safe/map.md)
   * [表达式安全](code-safe/expression.md)
   * [控制语句安全](code-safe/controller.md)
